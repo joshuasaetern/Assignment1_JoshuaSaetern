@@ -17,6 +17,7 @@ namespace Assignment1_JoshuaSaetern
     public partial class MainWindow : Window
     {
         // Joshua was here
+        // Joshua will be leaving soon
         public MainWindow()
         {
             InitializeComponent();
